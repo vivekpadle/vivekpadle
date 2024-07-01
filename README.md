@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Add your social media links here -->
+(https://www.linkedin.com/in/vivek-padale-050b79110/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
