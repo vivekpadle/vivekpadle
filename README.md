@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vivek Padale</h1>
+<h1 align="center">Hi 👋, I'm Vivek </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vivekpadle&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpadle" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 I’m currently working on [Reputation Analyzer](https://github.com/vivekpadle/Reputation-Analyzer.git)
 
