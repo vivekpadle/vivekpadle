@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Reputation Analyzer](https://github.com/vivekpadle/Reputation-Analyzer.git)
 
-- 📫 How to reach me **vivekp0310@gmail.com**
+- 📫 Reach me **vivekp0310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
