@@ -7,8 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-- 🔭 I’m currently working on [Reputation Analyzer](https://github.com/vivekpadle/Reputation-Analyzer.git)
-
 - 📫 Reach me **vivekp0310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
