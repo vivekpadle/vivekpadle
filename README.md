@@ -109,8 +109,6 @@ Building AI-powered creative workflows that bridge creativity and technology.
 
 🔹 AI-Powered Creative Workflows
 
-🔹 AI Demo Reel
-
 🔹 Reputation Analysis using Machine Learning
 
 🔹 Racing Bros (Unity)
