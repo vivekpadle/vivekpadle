@@ -117,6 +117,10 @@ Building AI-powered creative workflows that bridge creativity and technology.
 
 🔹 AR/VR Experiences
 
+🔹 AR Menu
+
+🔹 AI Voice Agent
+
 ---
 
 ## 🌱 Currently Working On
